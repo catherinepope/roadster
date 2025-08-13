@@ -4,6 +4,7 @@ date: 2023-03-30T17:21:35+01:00
 categories:
   - Hugo
 draft: false
+authorbox: true
 ---
 
 Although Hugo modules are supposed to make life simple, this took me an embarrassingly long time to fathom. 

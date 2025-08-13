@@ -2,7 +2,7 @@
 title:  "How to Remove a Photo Background in Canva"
 date:   2021-02-02 10:19:28 +0100
 authorbox: true
-categories: tutorials
+categories: ["tutorials"]
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title:  "The Art of Deliberate Practice"
 date:   2020-07-06 10:19:28 +0100
-categories: learning
+categories: ["learning"]
 authorbox: true
 ---
 

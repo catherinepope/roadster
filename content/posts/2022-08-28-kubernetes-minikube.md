@@ -1,7 +1,7 @@
 ---
 title: Creating a Kubernetes Deployment with minikube
 date: 2022-08-28
-categories: Kubernetes
+categories: ["Kubernetes"]
 toc: true
 authorbox: true
 ---

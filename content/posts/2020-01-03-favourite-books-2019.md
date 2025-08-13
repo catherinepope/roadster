@@ -1,7 +1,7 @@
 ---
 title:  "My Favourite Books of 2019"
 date:   2020-01-03 10:19:28 +0100
-categories: books
+categories: ["books"]
 authorbox: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title:  "The Kindness Method by Shahroo Izadi"
 date:   2019-01-05 10:19:28 +0100
-categories: books
+categories: ["books"]
 authorbox: true
 ---
 

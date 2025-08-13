@@ -2,7 +2,7 @@
 title:  "How to Take Really Long Screenshots"
 date:   2021-04-01 10:19:28 +0100
 authorbox: true
-categories: tutorials
+categories: ["tutorials"]
 ---
 
 Capturing long webpages is a pain. In this short demo, I'll show you how you can save them easily with a paid Chrome extension called [GoFullPage](https://gofullpage.com).

@@ -1,7 +1,7 @@
 ---
 title:  "How to Turn Your Phone into a Webcam"
 date:   2020-07-03 10:19:28 +0100
-categories: tutorials
+categories: ["tutorials"]
 authorbox: true
 ---
 

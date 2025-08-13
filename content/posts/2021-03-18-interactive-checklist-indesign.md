@@ -2,7 +2,7 @@
 title:  "How to Create an Interactive Checklist in InDesign"
 date:   2021-03-18 10:19:28 +0100
 authorbox: true
-categories: tutorials
+categories: ["tutorials"]
 
 ---
 

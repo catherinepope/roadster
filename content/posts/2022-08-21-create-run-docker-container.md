@@ -2,7 +2,7 @@
 layout: single
 title: Creating and Running a Docker Image of Your Website
 date: 2022-08-21
-categories: Docker
+categories: ["Docker"]
 authorbox: true
 toc: true
 ---

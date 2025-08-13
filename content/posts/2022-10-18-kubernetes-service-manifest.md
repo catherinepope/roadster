@@ -1,7 +1,7 @@
 ---
 title: Creating a Kubernetes Service Manifest
 date: 2022-10-18
-category: Kubernetes
+category: ["Kubernetes"]
 authorbox: true
 toc: true
 ---

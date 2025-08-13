@@ -2,7 +2,7 @@
 title:  "How to Use a Second Camera in Zoom"
 date:   2021-02-18 10:19:28 +0100
 authorbox: true
-categories: tutorials
+categories: ["tutorials"]
 
 ---
 
